@@ -7,8 +7,8 @@
     }
 
     //Vistas
-    if($uri=="/site/index.php/soon"){
-     soon_action();
+    if($uri=="/site/index.php/builder"){
+     builder_action();
     } 
 
     if($uri=="/site/index.php/home"){

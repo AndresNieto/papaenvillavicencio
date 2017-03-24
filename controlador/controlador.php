@@ -1,6 +1,6 @@
 <?php 
-function soon_action(){
-require "vistas/soon.php";
+function builder_action(){
+require "vistas/builder.php";
 }
 function home_action(){
 require "vistas/home.php";

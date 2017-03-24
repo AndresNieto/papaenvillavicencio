@@ -66,21 +66,11 @@
         <h5 class="side-section-title">Optional sidebar menu</h5>
         <div class="nav">
             <ul>
-                <li>
-                    <a href="#">Home</a>
-                </li>
-                <li>
-                    <a href="#">About us</a>
-                </li>
-                <li>
-                    <a href="#">Blog</a>
-                </li>
-                <li>
-                    <a href="#">Work</a>
-                </li>
-                <li>
-                    <a href="#">Online shop</a>
-                </li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Work</a></li>
+                <li><a href="#">Online shop</a></li>
             </ul>
         </div>
         
@@ -121,18 +111,18 @@
                             <span class="icon-bar"></span>
                         </button>
                         <a class="navbar-brand" href="index.html" title="Boomerang | One template. Infinite solutions">
-                            <img src="../images/logo.png" alt="" style="padding: 0.1px; ">
+                            <img src="../images/Firma.png" alt="" style="padding: 0.1px; ">
                         </a>
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="/site/index.php/home">Inicio</a></li>
-                            <li><a href="/site/index.php/soon">La visita</a></li>
-                            <li><a href="/site/docs/001 Campaña_Donar un árbol.pdf">Itinerario</a></li>
-                            <li><a href="homepage-agency-1.html">Noticias</a></li>
-                            <li><a href="homepage-agency-1.html">Participar</a></li>
-                            <li><a href="homepage-agency-1.html">Villavicencio</a></li>
-                            <li><a href="homepage-agency-1.html">Prensa</a></li>
+                            <li><a href="/site/index.php/builder">La visita</a></li>
+                            <li><a href="/site/index.php/builder">Itinerario</a></li>
+                            <li><a href="/site/index.php/builder">Noticias</a></li>
+                            <li><a href="/site/index.php/builder">Participar</a></li>
+                            <li><a href="/site/index.php/builder">Villavicencio</a></li>
+                            <li><a href="/site/index.php/builder">Prensa</a></li>
                             
                             <li class="hidden-xs">
                                 <a href="#" id="cmdAsideMenu" class="dropdown-toggle dropdown-form-toggle" title="Open sidebar">
@@ -156,55 +146,32 @@
      <footer class="footer">
         <div class="container">
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="col">
                        <h4>Contactanos</h4>
                        <ul>
-                            <li>5th Avenue, New York - United States</li>
-                            <li>Phone: +10 724 1234 567 | Fax: +10 724 1234 567 </li>
-                            <li>Email: <a href="mailto:hello@example.com" title="Email Us">hello@example.com</a></li>
-                            <li>Skype: <a href="skype:my.business?call" title="Skype us">my-business</a></li>
-                            <li>Creating great templates is our passion</li>
+                            <li>Cra 39 N° 34 -19 Barzal Alto - Villavicencio, Meta, Colombia</li>
+                            <li>Teléfono: +57 8 661 0537 - +57 316 576 2678 </li>
+                            <li>Email: <a href="mailto:hello@example.com" title="Email Us">info@elpapaenvillavicencio.com</a></li>
                         </ul>
                      </div>
                 </div>
-                
-                <div class="col-md-3">
-                    <div class="col">
-                        <h4>Mailing list</h4>
-                        <p>Sign up if you would like to receive occasional treats from us.</p>
-                        <form class="form-horizontal form-light">
-                            <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Your email address...">
-                                <span class="input-group-btn">
-                                    <button class="btn btn-base" type="button">Go!</button>
-                                </span>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="col col-social-icons">
-                        <h4>Follow us</h4>
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-google-plus"></i></a>
-                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                        <h4>Síguenos</h4>
+                        <a href="https://www.facebook.com/elpapaenvillavicencio/"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-skype"></i></a>
-                        <a href="#"><i class="fa fa-pinterest"></i></a>
-                        <a href="#"><i class="fa fa-youtube-play"></i></a>
-                        <a href="#"><i class="fa fa-flickr"></i></a>
+                        <a href="https://www.youtube.com/channel/UC-mQzyZ_nyInJGhNELJcDnA"><i class="fa fa-youtube-play"></i></a>
+                        <a href="#"><i class="fa fa-instagram"></i></a>
                     </div>
                 </div>
 
-                 <div class="col-md-3">
+                 <div class="col-md-4">
                     <div class="col">
-                        <h4>About us</h4>
+                        <h4>Acerca de Nosotros</h4>
                         <p class="no-margin">
-                        Boomerang MultiPurpose Template is a multi-solution product made with simplicity in mind so you can benefit as much as possible from it.
-                        <br><br>
-                        <a href="#" class="btn btn-block btn-base btn-icon fa-check"><span>Try it now</span></a>
+                            Este sitio web es administrado por la Arquidiócesis de Villavicencio. Para mayor información visita <a href="https://www.arquidiocesisdevillavicencio.org.co">Arquidiócesis de Villavicencio</a>
+                        
                         </p>
                     </div>
                 </div>
@@ -214,12 +181,11 @@
             
             <div class="row">
                 <div class="col-lg-9 copyright">
-                    2014 © Web Pixels. All rights reserved.
-                    <a href="#">Terms and conditions</a>
+                    2017 © Todos los derechos reservados.
                 </div>
-                <div class="col-lg-3">
-                    <a href="http://www.webpixels.ro" title="Made with love by Web Pixels" target="_blank" class="">
-                        <img src="images/webpixels-footer-logo.png" alt="Web Pixels - Designing Forward | Logo" class="pull-right">
+                <div class="col-lg-3"> Desarrollado por
+                    <a href="http://www.ideartech.co" title="Hecho con ♥" target="_blank" class="">
+                        iDeartech
                     </a>
                 </div>
             </div>
@@ -293,7 +259,19 @@
 <script src="../js/jquery.cookie.js"></script>
 <script src="../js/wp.switcher.js"></script>
 <script type="text/javascript" src="../js/wp.ga.js"></script>
+<script type="text/javascript" src="../js/jquery.downCount.js"></script>
 
+    <script class="source" type="text/javascript">
+        $('.countdown').downCount({
+            date: '08/09/2017 12:00:00',
+            offset: +10
+        }, function () {
+            alert('WOOT WOOT, done!');
+        });
+    </script>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
 
 </body>
 </html>
